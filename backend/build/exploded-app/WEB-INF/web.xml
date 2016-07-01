@@ -7,8 +7,7 @@
             <param-name>services</param-name>
             <param-value>
                 com.codephillip.backend.MyEndpoint,
-                com.codephillip.backend.StudentEndpoint,
-                com.codephillip.backend.TeacherEndpoint
+                com.codephillip.backend.AppEndpoint
             </param-value>
         </init-param>
     </servlet>
